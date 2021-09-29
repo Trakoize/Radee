@@ -1,2 +1,2 @@
 # Radee
-Music Streaming Site
+Radee is an (amateurish) music streaming website
